@@ -1,0 +1,22 @@
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.AssemblyInfoInputs.cache
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.AssemblyInfo.cs
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.csproj.CoreCompileInputs.cache
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.exe
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.deps.json
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.runtimeconfig.json
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.pdb
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.csproj.AssemblyReference.cache
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Wa.B96BE3DD.Up2Date
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\refint\Smart Warehouse Inventory & Order Processing System.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.pdb
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.genruntimeconfig.cache
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\ref\Smart Warehouse Inventory & Order Processing System.dll
