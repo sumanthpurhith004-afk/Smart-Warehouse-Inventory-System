@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smart Warehouse Inventory & Order Processing System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aed25d8c1428ed843f46288f32b2f2f42f14da1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smart Warehouse Inventory & Order Processing System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smart Warehouse Inventory & Order Processing System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -20,3 +20,4 @@ C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\o
 C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.pdb
 C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.genruntimeconfig.cache
 C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\ref\Smart Warehouse Inventory & Order Processing System.dll
+C:\Users\suman\C# Projects\Smart Warehouse Inventory & Order Processing System\obj\Debug\net8.0\Smart Warehouse Inventory & Order Processing System.sourcelink.json
